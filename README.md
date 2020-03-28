@@ -1,4 +1,4 @@
-# New york Taxi Fare Prediction and Classification
+# New York Taxi Fare Prediction and Classification
 
 A simple taxi fare prediction and classification using a Tabular Neural Network model implemented with Pytorch.
 
